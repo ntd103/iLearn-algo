@@ -11,7 +11,7 @@ def merge_count_inversions(left, right):
     inv_count = 0
 
     while i < len(left) and j < len(right):
-        if left[i] <= right[j]:
+        if left[i] <= right[j]: # Lưu ý phải có dấu = thể hiện không có nghịch đảo ở đây
             result.append(left[i])
             i += 1
         else:
