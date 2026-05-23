@@ -25,10 +25,10 @@ HOME.md          Dashboard review và thống kê
 
 Bạn có thể tham khảo roadmap của tui hoặc các nguồn tín hơn. Tui sẽ để các nguồn ở phía cuối cho bạn tham khảo
 
-0. Để bắt đầu, hãy cài [Obsidian](https://obsidian.md/), mở các community plugin là `Dataview`, `templater`, `homepage` (homepage để set auto open `HOME.md` on startup)
+0. Để bắt đầu, hãy cài [Obsidian](https://obsidian.md/), mở các community plugin là `Dataview`, `templater`, `homepage` (homepage để set auto open `HOME.md` on startup), `admonition` (Để tạo các callout đẹp)
 1. Mở `HOME.md` để xem bài cần review hôm nay, cập nhật lại `lastReviewed` và `reviewcount`
 2. Học theo `00 roadmap/roadmap.md`.
-3. Khi giải bài mới, tạo file trong `01 solutions/` từ `02 templates/solution-template.md` (phím tắt `alt + E` để ốp nhanh template)
+3. Khi giải bài mới, tạo file trong `01 solutions/` từ `02 templates/solution-template.md` (set filename = problem-name, phím tắt `alt + E` để ốp nhanh template)
 4. Tự viết chiến lược của bạn. Nhớ viết tag đánh dấu topic
 
 ## Spaced Repetition
@@ -52,9 +52,24 @@ Các mode chính:
 - `tutor`, `hint`, `solve`, `review`, `interview`, `pattern`, `quiz`, `roadmap`, `compare`
 ## Reference
 
+Roadmap:
+- [roadmap.sh/Datastructures and algorithms](https://roadmap.sh/datastructures-and-algorithms)
+- [VNOI- Roadmaps](https://roadmap.sh/r/vnoi-roadmap)
+
+Learn-platform:
+- [NeetCode](https://neetcode.io/)
+- [CodeChef](https://www.codechef.com/learn)
+- [cp-algorithms](https://cp-algorithms.com/) - wiki của cp-er
+- [Strivers A2Z DSA Course/Sheet - Crack Any FAANG or PBCs](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
+- [Junior Training Sheet V7.0](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?gid=84654839#gid=84654839)
+- [VNOI Wiki](https://wiki.vnoi.info/)
+- [takeuforward.org](https://takeuforward.org/)
+
 Problems: 
 - [cses](https://cses.fi/problemset/), [codeforce](https://codeforces.com/) phù hợp với competitive Programming
 - [leetcode](https://leetcode.com/), [hackerrank](https://www.hackerrank.com/) phù hợp phỏng vấn, bộ leetcode 75 kinh điển
+- [NeetCode 150](https://neetcode.io/practice/practice/neetcode150)
+- [AlgoMap](https://algomap.io/roadmap)
 
 Books:
 - [Competitive Programmer's Handbook](cses.fi/book/book.pdf) - Guide to Competitive Programming/ Antti Laaksonen
@@ -67,7 +82,7 @@ Cần file ib
 
 Extension:
 - [Competitive Companion](https://chromewebstore.google.com/detail/cjnmckjndlpiamhfimnnjmnckgghkjbl?utm_source=item-share-cb)
-- [Competitive Programming Helper (cph)]([Competitive Programming Helper (cph) - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper))
+- [Competitive Programming Helper (cph)](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper)
 - (tele) [Codeforces Official](https://t.me/codeforces_official)
 - (tele) [Leetcode daily question reminder](https://t.me/MyLeetCodeDailybot)
 

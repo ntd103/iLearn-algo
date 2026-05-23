@@ -1,22 +1,26 @@
 ---
 difficulty: 
 tags:
-  - dsa/Problem
+  - dsa/problem
 status: unsolved
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 lastReviewed: <% tp.date.now("YYYY-MM-DD") %>
 reviewCount: 0
 link: 
 ---
-# Problem Name
+# <% tp.file.title %>
 
+<% await tp.file.move("/01 solutions/" + tp.file.title) %>
 ## Approach
 
-**Pattern**:
+>[!hint]-
+>
 
-**Key insight**:
+
 
 ## Complexity
 
 - Time: O(?)
 - Space: O(?)
+
+## Code

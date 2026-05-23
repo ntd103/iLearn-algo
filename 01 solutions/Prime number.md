@@ -1,11 +1,10 @@
 ---
-difficulty: Easy
+difficulty: easy
 tags:
   - fundamental
-  - dsa/Problem
   - algorithm
 lastReviewed: 2026-05-19
-reviewCount: 0
+reviewCount: 6
 status: solved
 ---
 >[!question]+ Prime Number

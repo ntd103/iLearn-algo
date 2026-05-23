@@ -1,12 +1,11 @@
 ---
-difficulty: 
+difficulty:
 tags:
-  - dsa/Problem
   - algorithm
   - Math/Modulo
   - cryptography
 lastReviewed: 2026-05-19
-reviewCount: 0
+reviewCount: 6
 status: solved
 ---
 >[!question]+ Tìm nghịch đảo $a^{-1} \mod n$

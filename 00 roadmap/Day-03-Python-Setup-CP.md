@@ -140,25 +140,8 @@ for x in arr:
 result = ''.join(str(x) for x in arr)
 ```
 
-## Practice
+## Programming
 
-### Setup
+### Math
 
-- [ ] Cài Python 3.11+
-- [ ] Tạo template trong `05 templates/template.py`
-- [ ] Test fast I/O với input lớn (n = 10^6)
-
-### I/O Practice
-
-- [ ] Đọc 10^6 số, tính tổng - so sánh `input()` vs `sys.stdin.readline`
-- [ ] In 10^6 số ra - so sánh `print` từng số vs `'\n'.join()`
-
-## Tips
-
-- Python TLE nhiều - học C++ cũng cho mọi trường hợp
-- Tận dụng built-in: `Counter`, `heapq`, `bisect` - implement bằng C
-- Tránh nested loops với n > 10^4
-
----
-
-**Next**: [[Day-04-Python-Collections-Itertools]]
+`max(iterable)`

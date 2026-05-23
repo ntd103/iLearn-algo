@@ -1,10 +1,9 @@
 ---
-difficulty: Easy
+difficulty: easy
 tags:
-  - dsa/Problem
   - algorithm/Sorting
 lastReviewed: 2026-05-19
-reviewCount: 0
+reviewCount: 6
 status: solved
 ---
 # bubble-sort

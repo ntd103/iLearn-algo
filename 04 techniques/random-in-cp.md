@@ -1,5 +1,5 @@
 ---
-difficulty: Easy
+difficulty:
 tags:
   - algorithm
   - dsa/Technical

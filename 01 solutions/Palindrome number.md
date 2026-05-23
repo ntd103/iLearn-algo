@@ -1,11 +1,10 @@
 ---
-difficulty: Easy
+difficulty: easy
 tags:
-  - dsa/Problem
+  - dsa/problem
   - fundamental
-  - algorithm
 lastReviewed: 2026-05-19
-reviewCount: 0
+reviewCount: 6
 status: solved
 ---
 >[!question]+ Palindrome number

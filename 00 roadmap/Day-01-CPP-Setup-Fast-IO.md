@@ -82,26 +82,19 @@ cout << x << "\n";  // Không flush - NHANH
 
 Trong CP luôn dùng `"\n"`.
 
-## Practice
+## Programming
 
-### Setup
+### String
 
-- [ ] Cài `g++` + VSCode/Sublime
-- [ ] Tạo file template trong `05 templates/template.cpp`
-- [ ] Test compile với flags trên
+`str.substr(pos,len)` Cắt chuỗi con, từ vị trí pos độ dài len
 
-### I/O Practice
+### Math
 
-- [ ] Đọc N số rồi in tổng (n = 10^7)
-- [ ] So sánh thời gian: cin/cout có và không có fast I/O
-- [ ] Đọc input đến EOF: `while (cin >> x)`
+trong `include <numeric>`
 
-## Tips
+- `gcd(integer1, integer2)` 
 
-- Học gõ phím nhanh - tốc độ code quan trọng trong contest
-- Setup snippets cho template để gõ nhanh
-- Tập compile bằng phím tắt thay vì click chuột
+trong `include <algorithm>`
 
----
-
-**Next**: [[Day-02-CPP-STL-Mastery]]
+- `max(a, b, comparator)`
+- `max_element(arr.begin(), arr.end())` return a iterator refer to max elm, call value via `*` 

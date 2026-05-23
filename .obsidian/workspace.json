@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23a54bda89642050",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dsa/topic",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,9 +94,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "14. Longest Common Prefix.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HOME"
+              "title": "Backlinks for 14. Longest Common Prefix"
             }
           },
           {
@@ -165,12 +165,12 @@
               "title": "Outline of HOME"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,43 +185,43 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fb2676d45105ae3b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01 solutions/605. Can Place Flowers.md",
+    "01 solutions/33. Search in Rotated Sorted Array.md",
     "HOME.md",
-    "01 solutions/2566. Maximum Difference by Remapping a Digit.md",
+    "04 techniques/tranh-tran-so-trong-binary-search.md",
+    "04 techniques/random-in-cp.md",
+    "04 techniques/lam-tron-int-khong-qua-double.md",
+    "04 techniques/general.md",
+    "04 techniques/cac-ham-lam-tron.md",
+    "04 techniques/convert-to-binary.md",
+    "01 solutions/Palindrome number.md",
+    "01 solutions/Prime number.md",
+    "01 solutions/Lexicographical Numbers.md",
+    "02 templates/md-templates/solution-template.md",
+    "01 solutions/1071. Greatest Common Divisor of Strings.md",
     "README.md",
-    ".claude/skills/iLearn-algo/modes/review-mode.md",
-    ".claude/skills/iLearn-algo/modes/interview-mode.md",
-    ".git/logs/refs/remotes/origin/HEAD",
-    ".git/logs/refs/remotes/origin",
-    ".git/refs/remotes/origin/HEAD",
-    ".git/logs/refs/heads/main",
-    ".claude/skills/iLearn-algo/modes/solve-mode.md",
-    ".claude/skills/iLearn-algo/modes/tutor-mode.md",
-    ".claude/skills/iLearn-algo/modes/hint-mode.md",
-    ".claude/skills/iLearn-algo/modes/compare-mode.md",
-    ".claude/skills/iLearn-algo/modes/roadmap-mode.md",
-    ".claude/skills/iLearn-algo/modes/quiz-mode.md",
-    ".claude/skills/iLearn-algo/modes/pattern-mode.md",
-    ".claude/skills/iLearn-algo/docs/dsa-cheatsheet.md",
-    ".git/objects/pack/pack-53d48cee46c4664945dc612c41002fd241774e44.rev",
-    ".git/objects/ff/3dcc6d98c9468da99f559202425621320c66a6",
-    ".git/objects/pack/pack-53d48cee46c4664945dc612c41002fd241774e44.pack",
-    ".git/objects/pack/pack-53d48cee46c4664945dc612c41002fd241774e44.idx",
-    ".git/objects/eb/724399efbdfb94092d8ea42653cdc247209671",
-    ".git/objects/fc/bd55667c00c0e78faa822b38ae4be829ebc3ab",
-    ".claude/skills/iLearn-algo/SKILL.md",
-    "04 tricks/python.md",
-    "03 mistakes/README.md",
-    "04 tricks/phep-toan-modulo-trong-cpp.md",
-    "04 tricks/lam-tron-int-khong-qua-double.md",
-    "04 tricks/general.md",
-    "04 tricks/toihoc_cpp.md",
-    "04 tricks/cac-ham-lam-tron.md",
-    "04 tricks/random-in-cp.md",
-    "04 tricks/toi-uu-dieu-kien-isPrime.md",
-    "04 tricks/Untitled.md",
-    "01 solutions/1431. Kids With the Greatest Number of Candies.md"
+    "01 solutions/sedfSL3mO",
+    "01 solutions/sedJLodZH",
+    "01 solutions/sediHfhSX",
+    "01 solutions/sedHMDr4q",
+    "01 solutions/sedV1LKGW",
+    "01 solutions/sedayVh41",
+    "01 solutions/sedDXTCg7",
+    "01 solutions/sedXMBJKD",
+    "01 solutions/sedgyPweN",
+    "01 solutions/sed2RIPv2",
+    "14. Longest Common Prefix.md",
+    "01 solutions/Affine Cipher.md",
+    "01 solutions/bubble-sort.md",
+    "01 solutions/GCD.md",
+    "01 solutions/Vigenere cipher.md",
+    "01 solutions/Modular Inverse.md",
+    "01 solutions/440. K-th Smallest in Lexicographical Order.md",
+    "01 solutions/isPrime_MillerRabinTest.md",
+    "01 solutions/Hill Cipher.md",
+    "01 solutions/find gcd_extend_euler.md",
+    "01 solutions/exponentiation_by_squaring.md",
+    "01 solutions/Caesar cipher.md"
   ]
 }
